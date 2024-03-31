@@ -1,0 +1,25 @@
+{
+  "name": "optiodebitis",
+  "version": "1.0.0",
+  "description": "Another quadtree implementation for javascript",
+  "author": "DaijaRutherford",
+  "license": "MIT",
+  "main": "quadtree.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MandyRippin/optiodebitis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MandyRippin/optiodebitis.git/issues"
+  },
+  "keywords": [
+    "aliquam"
+  ],
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {
+    "uglify-js": "^3.9.4"
+  },
+  "homepage": "https://github.com/MandyRippin/optiodebitis.git"
+}
